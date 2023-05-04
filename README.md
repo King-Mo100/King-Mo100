@@ -1,5 +1,5 @@
 ## ⚡Hey 👋, I'm Moses King
-
+I specialise in HTML, CSS and Javascript, however i also write code in Python and PostgreSQL
 ## Frontend Web Developer 🧑‍💻
 
 ### Languages & Tools
